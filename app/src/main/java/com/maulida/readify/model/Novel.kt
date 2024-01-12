@@ -11,14 +11,14 @@ val data1 = Novel(
     idNovel = "1",
     genreNovel = "Horor",
     judulNovel = "The Call",
-    descNovel = "Hantu ada di depanmu..percaya?"
+    descNovel = "Hantu ada di depanmu. Percaya?"
 )
 
 val data2 = Novel(
     idNovel = "2",
-    genreNovel = "Romantis",
-    judulNovel = "Mystique",
-    descNovel = "Ini adalah kisah cinta pelukis River dengan..."
+    genreNovel = "Drama",
+    judulNovel = "Blue",
+    descNovel = "Aku bisa melihat banyak hantu, tapi ada satu yang..."
 )
 
 val data3 = Novel(
@@ -38,8 +38,8 @@ val data4 = Novel(
 val data5 = Novel(
     idNovel = "5",
     genreNovel = "Drama",
-    judulNovel = "Rumor Has It",
-    descNovel = "lorem ipsum"
+    judulNovel = "Scrambled",
+    descNovel = "Visi adalah seorang siswi SMA yang pemalu."
 )
 
 val listDataDummy = listOf(data1, data2, data3, data4, data5)

@@ -41,15 +41,18 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/contoh_a"/>
+                android:src="@drawable/contoh_a"
+                android:scaleType="centerCrop"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/contoh_b"/>
+                android:src="@drawable/contoh_bb"
+                android:scaleType="centerCrop"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/contoh_c"/>
+                android:src="@drawable/contoh_c"
+                android:scaleType="centerCrop"/>
         </ViewFlipper>
 
         <TextView
