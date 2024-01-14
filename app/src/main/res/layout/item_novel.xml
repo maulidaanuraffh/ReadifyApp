@@ -19,8 +19,8 @@
             android:layout_height="112dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
-            android:src="@drawable/tes"
-            android:scaleType="centerCrop"/>
+            android:scaleType="centerCrop"
+            android:src="@drawable/tes" />
 
         <TextView
             android:id="@+id/tvGenre"

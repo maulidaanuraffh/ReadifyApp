@@ -42,4 +42,4 @@ val data5 = Novel(
     descNovel = "Visi adalah seorang siswi SMA yang pemalu."
 )
 
-val listDataDummy = listOf(data1, data2, data3, data4, data5)
+val listDataNovel = listOf(data1, data2, data3, data4, data5)

@@ -72,7 +72,7 @@ class NovelAdapter(c: Context) : RecyclerView.Adapter<NovelAdapter.NovelViewHold
             "3" -> "https://swebtoon-phinf.pstatic.net/20210331_138/1617152372024Dq7Wb_JPEG/4WeakHero_mobile_landingpage.jpg?type=crop540_540"
             "4" -> "https://swebtoon-phinf.pstatic.net/20210423_257/16191575697620smLg_JPEG/504_EC9E91ED9288EC8381EC84B8_mobile2B28129+28129.jpg?type=crop540_540"
             "5" -> "https://swebtoon-phinf.pstatic.net/20210422_231/1619017421879FrCh3_JPEG/8M_details.jpg?type=crop540_540"
-            else -> "DEFAULT_URL_GAMBAR"
+            else -> ""
         }
     }
 
