@@ -5,7 +5,6 @@
     android:orientation="horizontal"
     android:paddingHorizontal="8dp">
 
-
     <TextView
         android:id="@+id/bab"
         android:layout_width="30dp"
