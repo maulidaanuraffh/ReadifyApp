@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import com.maulida.readify.databinding.DetailNovelBinding
 import com.maulida.readify.databinding.SplashscreenBinding
 
 class SplashscreenActivity : AppCompatActivity() {
@@ -17,7 +16,7 @@ class SplashscreenActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         Handler().postDelayed({
-            val intent = Intent(this, HomeActivity::class.java)
+            val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
             finish()
         }, SPLASH_DELAY)

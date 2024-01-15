@@ -23,10 +23,10 @@
             android:name=".ui.WecomePageActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.DetailNovel"
+            android:name=".ui.DetailnovelActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.HomeActivity"
+            android:name=".ui.MainActivity"
             android:exported="false" />
         <activity
             android:name=".adapter.GenreAdapter"
