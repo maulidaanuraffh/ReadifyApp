@@ -18,13 +18,14 @@
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/drawable/pen_add.xml" value="0.145" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/drawable/romanceee.xml" value="0.1135" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/drawable/user.xml" value="0.1135" />
+        <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/font/montserrat.xml" value="0.1" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/activity_detailnovel.xml" value="0.1" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/activity_home.xml" value="0.16666666666666666" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/activity_main.xml" value="0.1111111111111111" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/activity_novel.xml" value="0.22" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/detail_novel.xml" value="0.22" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/fragment_akun.xml" value="0.13333333333333333" />
-        <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/fragment_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/fragment_home.xml" value="0.18085106382978725" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/fragment_perpustakaan.xml" value="0.18426501035196688" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/fragment_tulis.xml" value="0.22" />
         <entry key="..\:/PKL 2024/PROJECT/Readify/app/src/main/res/layout/genre_adapter.xml" value="0.14666666666666667" />
@@ -40,7 +41,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

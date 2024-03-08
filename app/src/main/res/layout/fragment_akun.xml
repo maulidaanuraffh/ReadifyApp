@@ -24,13 +24,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
-            android:fontFamily="@font/montserrat_extrabold"
+            android:fontFamily="More Fonts..."
             android:text="Akun"
             android:textColor="#204667"
             android:textSize="19sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"/>
+            app:layout_constraintTop_toTopOf="parent" />
 
         <ImageView
             android:id="@+id/imageView8"
